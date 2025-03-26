@@ -1,0 +1,3 @@
+llm-workspace/
+__pycache__/
+*.log
